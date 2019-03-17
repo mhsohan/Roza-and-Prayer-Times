@@ -29,8 +29,6 @@ public class MainActivity extends AppCompatActivity {
     LocationManager locationManager;
     LocationListener locationListener;
 
-
-
     private TextView txtPrayerTimes;
 
     @Override
